@@ -106,7 +106,7 @@ Network Model for Omics Data Integration and Analysis</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(57).pdf" style="text-decoration:none;">A Selective Review of Multi-Level Omics Data Integration Using Variable Selection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(58).pdf" style="text-decoration:none;">Stitching together Multiple Data Dimensions Reveals Interacting Metabolomic and Transcriptomic Networks That Modulate Cell Regulation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(58).PDF" style="text-decoration:none;">Stitching together Multiple Data Dimensions Reveals Interacting Metabolomic and Transcriptomic Networks That Modulate Cell Regulation</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(59).pdf" style="text-decoration:none;">mixOmics: An R package for 'omics feature selection and multiple data integration</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(60).pdf" style="text-decoration:none;">Multiview learning for understanding functional multiomics</a></li>
