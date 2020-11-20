@@ -31,7 +31,7 @@
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(15).pdf" style="text-decoration:none;">Integrated Principal Components Analysis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(16).pdf" style="text-decoration:none;">Joint association and classication analysis of multi-view data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(16).pdf" style="text-decoration:none;">Joint association and classification analysis of multi-view data</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Omics-Paper-List/blob/master/omics(17).pdf" style="text-decoration:none;">Bidimensional linked matrix factorization for pan-omics pan-cancer analysis</a></li>   
   
